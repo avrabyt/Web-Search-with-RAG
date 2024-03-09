@@ -1,6 +1,6 @@
 # Full-Stack AI-Powered Web Search Application with Tavily Search API
 
-Full-stack application tutorial, where we build an AI-powered search application from the ground up. This project leverages the cutting-edge capabilities of the **Tavily Search API** for fast, accurate, and **RAG-optimized** AI-enhanced search results. Through this tutorial, we explore the integration of advanced AI models and techniques, including the Retrieval-Augmented Generation (RAG) technique and the Mistral model `mixtral-8x7b-32768` as the Large Language Model (LLM), running on the **Groq LPU** for unparalleled processing speed and efficiency.
+Full-stack application tutorial, where we build an AI-powered search application from the ground up. Leverages the cutting-edge capabilities of the **Tavily Search API** for fast, accurate, and **RAG-optimized** AI-enhanced search results. Through this tutorial, we explore the integration of advanced AI models and techniques, including the Retrieval-Augmented Generation (RAG) technique and the Mistral model `mixtral-8x7b-32768` as the Large Language Model (LLM), running on the **Groq LPU** for unparalleled processing speed and efficiency.
 
 ## Features
 
