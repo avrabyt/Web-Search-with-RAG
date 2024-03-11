@@ -20,3 +20,8 @@ Full-stack application tutorial, where we build an AI-powered search application
 ## Note
 The app was developed using the Databutton platform - the Capability and UI Builder Agents avialble within the tool *generated all the code*.
 The comprehensive walkthrough of building this application is detailed in the tutorial video. From setting up the project environment to integrating the Tavily Search API and deploying the full-stack application, every step is explained. This tutorial also includes a demonstration of the app's minimal architecture.
+
+## Watch the full app development video here - 
+[![rag web search](thumbnail.jpg)](https://youtu.be/rwJNtOQVaRY "Click to Watch!")
+
+
